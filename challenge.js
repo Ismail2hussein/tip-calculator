@@ -1,5 +1,4 @@
-// Good Luck! You got this 💪🏾
-// Write your code here.
+
 let bill = 275
 let tip
 
